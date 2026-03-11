@@ -93,5 +93,5 @@ generando una pérdida acumulada de **$135.376**.
 
 ## 👤 Autor
 
-**[Tu nombre]**
-[LinkedIn](#) · [GitHub](#)
+Valentín Lusnich
+[LinkedIn](https://www.linkedin.com/in/valent%C3%ADn-lusnich-144503230/) · [GitHub](https://github.com/valenlusnich3043)
