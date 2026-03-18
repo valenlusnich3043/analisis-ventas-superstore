@@ -87,7 +87,7 @@ generando una pérdida acumulada de **$135.376**.
 
 ## 📈 Dashboard
 
-> 🔗 [Ver dashboard en Power BI](#) ← (agregar link cuando esté publicado)
+![Dashboard Preview](powerbi/dashboard_preview.png)
 
 ---
 
